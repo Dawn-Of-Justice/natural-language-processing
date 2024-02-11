@@ -1,6 +1,6 @@
 # Natural Language Processing Basics
 
-This repository contains basic implementations and examples of Natural Language Processing (NLP) techniques and algorithms. Whether you're new to NLP or looking to refresh your knowledge, you'll find useful resources and examples here.
+This repository contains basic implementations and examples of Natural Language Processing (NLP) techniques and algorithms. Whether you're new to NLP or looking to refresh your knowledge, you'll find useful resources and examples here. This repository mainly uses nltk library along with basic Python libraries to implement NLP algorithms and techniques
 
 ## Table of Contents
 
@@ -11,9 +11,9 @@ This repository contains basic implementations and examples of Natural Language 
 
 ## Introduction
 
-Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. It encompasses tasks such as text classification, sentiment analysis, language translation, and more.
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. It encompasses text classification, sentiment analysis, language translation, and more.
 
-This repository serves as a beginner-friendly resource for understanding and implementing basic NLP techniques using popular libraries such as NLTK, spaCy, and scikit-learn.
+This repository is a beginner-friendly resource for understanding and implementing basic NLP techniques using popular libraries such as NLTK, spaCy, and scikit-learn.
 
 ## Features
 
@@ -25,7 +25,7 @@ This repository serves as a beginner-friendly resource for understanding and imp
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or additional examples to add, feel free to open a pull request. Please ensure that your code follows the repository's style and conventions.
+Contributions are welcome! Feel free to open a pull request if you have any improvements or additional examples to add. Please ensure that your code follows the repository's style and conventions.
 
 ## License
 
