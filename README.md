@@ -2,6 +2,8 @@
 
 This repository contains basic implementations and examples of Natural Language Processing (NLP) techniques and algorithms. Whether you're new to NLP or looking to refresh your knowledge, you'll find useful resources and examples here. This repository mainly uses nltk library along with basic Python libraries to implement NLP algorithms and techniques
 
+![NLP Processing GIF](nlp-processing.gif)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
